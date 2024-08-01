@@ -11,5 +11,5 @@
 
 
 <div style="display: inline_block"><br>
-  <img aling="center" alt="william-Js" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img aling="center" alt="william-css" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
           
