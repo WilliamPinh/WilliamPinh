@@ -5,7 +5,7 @@
 
 
 <div  align="center" >
-- 💻 Atualmente curso o 4º período de Engenharia de Software... <br>
+- 💻 Atualmente curso o 5º período de Engenharia de Software... <br>
 </div>
 
 
