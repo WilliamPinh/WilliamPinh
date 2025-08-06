@@ -52,7 +52,7 @@
   <img aling="center" alt="william-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img aling="center" alt="william-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img aling="center" alt="william-java" height="50" width="60" src="https://icongr.am/devicon/java-original.svg"/>
-  <img aling="center" alt="william-c++" height="50" width="60" src="https://icongr.am/devicon/cplusplus-plain.svg"/>
+  <img aling="center" alt="william-c++" height="50" width="60" src="https://icongr.am/devicon/c-original.svg"/>
   <img aling="center" alt="william-mysql" height="50" width="60" src="https://icongr.am/devicon/mysql-original.svg"/>
   <img aling="center" alt="william-python" height="50" width="60" src="https://icongr.am/devicon/python-original.svg"/>
 </div>
