@@ -29,7 +29,9 @@
 <br>
 
 <div  align="center" >
-- 📌 Pretendo aperfeiçoar os meus conhecimentos cada vez mais e aprender novas linguagens, atualmente estou aprendendo NoSQL e reforçando meus conhecimentos em HTML, CSS e JAVASCRIPT <br>
+- 📌 Pretendo aperfeiçoar os meus conhecimentos cada vez mais e aprender novas linguagens, atualmente estou aprendendo NoSQL e busco uma oportunidade para aplicar e expandir minhas habilidades no setor de tecnologia
+
+ <br>
 </div>
 
  <br> 
