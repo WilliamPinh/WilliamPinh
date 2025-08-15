@@ -11,7 +11,7 @@
 <br>
 
 <div  align="center" >
-- 📊 Conhecimentos em HTML, CSS, JAVASCRIPT, JAVA, C++, MySQL E PYTHON <br>
+- 📊 Conhecimentos em HTML, CSS, JAVASCRIPT, JAVA, C++, MySQL, NoSQL E PYTHON <br>
 </div>
 
 <br>
@@ -29,7 +29,7 @@
 <br>
 
 <div  align="center" >
-- 📌 Pretendo aperfeiçoar os meus conhecimentos cada vez mais e aprender novas linguagens, atualmente estou aprendendo NoSQL e busco uma oportunidade para aplicar e expandir minhas habilidades no setor de tecnologia
+- 📌 Proativo e curioso, busco uma oportunidade para aplicar e expandir minhas habilidades
 
  <br>
 </div>
