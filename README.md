@@ -17,7 +17,7 @@
 <br>
 
 <div  align="center" >
-- 🔧 Também sei utilizar ferramentas como Power BI, Word, Excel, Powerpoint e Figma <br>
+- 🔧 Conhecimentos em ferramentas como Power BI, Word, Excel, Powerpoint e Figma <br>
 </div>
 
 <br>
