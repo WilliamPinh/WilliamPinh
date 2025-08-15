@@ -29,7 +29,7 @@
 <br>
 
 <div  align="center" >
-- 📌 Pretendo aperfeiçoar os meus conhecimentos cada vez mais e aprender novas linguagens, atualmente estou aprendendo NoSQL e reforçando meus conhecimentos em HTML, CSS e JAVASCRIPT. <br>
+- 📌 Pretendo aperfeiçoar os meus conhecimentos cada vez mais e aprender novas linguagens, atualmente estou aprendendo NoSQL e reforçando meus conhecimentos em HTML, CSS e JAVASCRIPT <br>
 </div>
 
  <br> 
