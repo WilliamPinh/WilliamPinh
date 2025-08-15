@@ -5,25 +5,25 @@
 
 
 <div  align="center" >
-- 💻 Cursando o 6º período de Engenharia de Software na Unicesumar... <br>
+- 💻 Cursando o 6º período de Engenharia de Software na Unicesumar <br>
 </div>
 
 <br>
 
 <div  align="center" >
-- 📊 Conhecimentos em HTML, CSS, JAVASCRIPT, JAVA, C++, MySQL E PYTHON... <br>
+- 📊 Conhecimentos em HTML, CSS, JAVASCRIPT, JAVA, C++, MySQL E PYTHON <br>
 </div>
 
 <br>
 
 <div  align="center" >
-- 🔧 Também sei utilizar ferramentas como Power BI, Word, Excel, Powerpoint e Figma... <br>
+- 🔧 Também sei utilizar ferramentas como Power BI, Word, Excel, Powerpoint e Figma <br>
 </div>
 
 <br>
 
 <div  align="center" >
-- 🎮 Já desenvolvi jogos em 2D utilizando Godot na faculdade e também pratiquei Dart para desenvolver um aplicativo para mobile... <br>
+- 🎮 Já desenvolvi jogos em 2D utilizando Godot na faculdade e também pratiquei Dart para desenvolver um aplicativo para mobile <br>
 </div>
 
 <br>
