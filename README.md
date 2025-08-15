@@ -11,7 +11,7 @@
 <br>
 
 <div  align="center" >
-- 📊 Possuo experiência em HTML, CSS, JAVASCRIPT, JAVA, C++, MySQL E PYTHON... <br>
+- 📊 Conhecimentos em HTML, CSS, JAVASCRIPT, JAVA, C++, MySQL E PYTHON... <br>
 </div>
 
 <br>
