@@ -11,7 +11,7 @@
 <br>
 
 <div  align="center" >
-- 📊 Possuo um pouco de experiência em HTML, CSS, JAVASCRIPT, JAVA, C++, MySQL E PYTHON... <br>
+- 📊 Possuo experiência em HTML, CSS, JAVASCRIPT, JAVA, C++, MySQL E PYTHON... <br>
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 <br>
 
 <div  align="center" >
-- 🎮 Já desenvolvi jogos em 2D utilizando Godot na faculdade e também pratiquei um pouco de Dart para desenvolver um aplicativo para mobile... <br>
+- 🎮 Já desenvolvi jogos em 2D utilizando Godot na faculdade e também pratiquei Dart para desenvolver um aplicativo para mobile... <br>
 </div>
 
 <br>
