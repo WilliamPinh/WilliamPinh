@@ -5,7 +5,7 @@
 
 
 <div  align="center" >
-- 💻 Atualmente curso o 6º período de Engenharia de Software... <br>
+- 💻 Cursando o 6º período de Engenharia de Software na Unicesumar... <br>
 </div>
 
 <br>
